@@ -6,7 +6,6 @@ import datetime
 import os
 import sys
 
-# Configurable paths
 LOG_FOLDER_PATH = os.getenv("TERMINI_LOG_PATH", os.path.expanduser("~/Termini/log"))
 MD_LOG_FILE_PATH = f"{LOG_FOLDER_PATH}/Termini_log.md"
 
