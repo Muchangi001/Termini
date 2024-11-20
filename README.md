@@ -208,7 +208,7 @@ Termini is designed to maximize productivity by keeping you within the terminal.
 
 ## License
 
-Termini is an open-source project licensed under the MIT License. Feel free to fork and contribute to the project.
+Termini is an open-source project licensed under the GPL-3.0 License. Feel free to fork and contribute to the project.
 
 ## Contributing
 
